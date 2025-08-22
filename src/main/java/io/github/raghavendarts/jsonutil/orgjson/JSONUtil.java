@@ -421,9 +421,4 @@ public class JSONUtil {
 		}
 		return false;
 	}
-
-	public static void main(String[] args) {
-		JSONObject object = new JSONObject();
-	}
-
 }
