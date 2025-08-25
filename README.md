@@ -66,6 +66,6 @@ This project is licensed under the MIT License — see the LICENSE
 ## Author
 Raghavendar T S
 
-GitHub: [`@raghavendar-ts`](https://stleary.github.io/JSON-java/)
+GitHub: [`@raghavendar-ts`](https://github.com/raghavendar-ts/jsonutil-orgjson)
 
 LinkedIn: [`Raghavendar T S`](https://www.linkedin.com/in/raghavendar-ts/)
